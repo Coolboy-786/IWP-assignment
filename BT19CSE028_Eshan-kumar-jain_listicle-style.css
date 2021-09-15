@@ -1,10 +1,8 @@
 body {
   margin: 0;
+  background-color: powderblue;
 }
 
-footer{
-  background-color: #BFA2DB;
-}
 
 h1{
   font-family: 'Roboto Slab', serif;
@@ -106,6 +104,7 @@ p{
 .link{
   color:  #42b4d6;
   text-decoration: none;
+  font-weight: normal;
 }
 
 .link:hover{
@@ -118,9 +117,10 @@ p{
 
 .labs:hover{
   border-radius: 25%;
-  width: 55%;
-  height: 55%;
+  width: 415px;
+  height: 415px;
 }
+
 
 .title {
   vertical-align: middle;
